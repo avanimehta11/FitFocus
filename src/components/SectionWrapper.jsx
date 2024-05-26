@@ -14,7 +14,7 @@ export default function SectionWrapper(props) {
           <span
             className={
               id === "workout"
-                ? "uppercase text-red-400"
+                ? "uppercase text-red-700"
                 : "uppercase text-blue-400"
             }
           >
