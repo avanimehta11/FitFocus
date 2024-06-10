@@ -1,4 +1,4 @@
-# FitFocus
+# FitFocus :muscle:	
 ![FitFocus](https://github.com/avanimehta11/FitFocus/assets/133508816/02ab4212-4c85-49c5-8d51-f118d58d9e96)
 
 Welcome to FitFocus, your go-to solution for personalized workout routines! Visit the website at [FitFocus](https://fitfocus.netlify.app/).
